@@ -4,7 +4,7 @@ Im using my laptop for work and private stuff and wanted to use some kind of pro
 ## Installation
 You can install the package using pip
 ```bash
-pip install qtile_profiles
+pip install qtile-profiles
 ```
 ## Usage
 ```python
@@ -58,5 +58,3 @@ keys.extend([
     Key([super], "i", lazy.function(profiles.current_profile.spawn_init)),
     ])
 ```
-## Usage
-		

@@ -15,7 +15,7 @@
 
 "A profile manger for qtile"
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from dataclasses import dataclass
 from typing import Callable, Union
